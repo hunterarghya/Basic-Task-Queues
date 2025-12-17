@@ -1,0 +1,53 @@
+# -------------------------
+# OS / Editor Junk
+# -------------------------
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# -------------------------
+# Docker
+# -------------------------
+docker-data/
+*.pid
+
+
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+*.env
+
+# Logs
+*.log
+logs/
+debug.log
+
+# Cache & temporary files
+*.cache/
+.cache/
+tmp/
+temp/
